@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/aayuvraj/aayuvraj/blob/main/developer.gif" alt="Code" width="420" height="330">
+<img align="right" src="https://github.com/aayuvraj/aayuvraj/blob/main/devguy3.gif" alt="Code" width="420" height="330">
 
 
 
