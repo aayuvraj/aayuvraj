@@ -10,7 +10,7 @@
 - ⚡ Motivation: The only way to learn something new is by implementing it.🤓
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- C++/Java Frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
@@ -32,9 +32,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
-
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
