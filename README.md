@@ -1,10 +1,10 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/aayuvraj/aayuvraj/blob/main/developer.gif" alt="Code" width="420" height="330">
 
 
 
 ### Hi there, I am Aayush Shah 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-aayush_shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-shah-601029130/)](https://www.linkedin.com/in/aayush-shah-601029130/)
+[![Gmail Badge](https://img.shields.io/badge/-aayushhemal98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aayushhemal98@gmail.com)](mailto:aayushhemal98@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://aayuvraj.github.io/)
 - ⚡ Motivation: The only way to learn something new is by implementing it.🤓
