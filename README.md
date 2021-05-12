@@ -14,6 +14,7 @@
 - Backend Development ✍️
 - Machine Learning 🧐
 - Data Science 😬
+- Cloud Computing ✍️
 
 <a href="https://gitstats.me/aayuvraj">
     <img width="420" height="auto" align="right" alt="Aayush's github stats" 
